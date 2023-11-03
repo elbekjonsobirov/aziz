@@ -1,0 +1,121 @@
+@media (min-width: 1024px) and (max-width: 1440px) {
+    header {
+        width: 100%;
+        height: 80px;
+    }
+
+    .header_box {
+        width: 35%;
+        height: 80px;
+        font-size: 17px;
+        gap: 30px;
+    }
+
+    header svg {
+        width: 130px;
+        height: 20px;
+    }
+
+    header button {
+        width: 180px;
+        height: 50px;
+        font-size: 15px;
+    }
+
+    .box {
+        padding-left: 10px;
+    }
+
+    .box h1 {
+        font-size: 37px;
+        margin-top: 320px;
+    }
+
+    .box button {
+        width: 180px;
+        height: 50px;
+        font-size: 15px;
+    }
+
+    .boxbg {
+        gap: 30px;
+    }
+
+    .box_img {
+        width: 300px;
+        height: 400px;
+    }
+
+    .box_img img {
+        width: 298px;
+        height: 300px;
+    }
+
+    .box_img p {
+        font-size: 22px;
+    }
+
+    .box_img span {
+        font-size: 14px;
+    }
+
+    .box_img2 img {
+        width: 180px;
+        height: 130px;
+    }
+
+    .boxbg2 {
+        gap: 5px;
+    }
+
+    .p2 {
+        font-size: 19px;
+    }
+
+    .boxbg2 p {
+        font-size: 18px;
+        line-height: 160%;
+    }
+
+    .p3 {
+        margin-right: 10px;
+    }
+
+    .boxbg2 svg:nth-child(1) {
+        width: 8.5px;
+        height: 26px;
+    }
+
+    .svg {
+        width: 18.5px;
+        height: 26px;
+    }
+
+    .box6 {
+        height: 850px;
+    }
+
+    .boxbg3 {
+        width: 400px;
+        margin-left: 70px;
+    }
+
+    .boxbg3 img {
+        width: 400px;
+        height: 350px;
+    }
+
+    .boxbg4 img {
+        width: 270px;
+        height: 200px;
+    }
+
+    .p10 {
+        font-size: 20px;
+    }
+
+    .span5 {
+        font-size: 16px;
+        width: 200px;
+    }
+}
